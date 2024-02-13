@@ -1,9 +1,8 @@
-# ClassificationECGwithHVG
-**Classification of Time Series ECG Signals using Horizontal Visibility Graph**
+# Classification of Time Series ECG Signals using Horizontal Visibility Graph
 
 _A project in fulfillment of MATH 191: Complex Networks and Topological Data Analysis_
 
-
+### by Cristian B. Jetomo
 
 ## **Abstract:**
 
