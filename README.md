@@ -15,4 +15,4 @@ problem. This paper presents a simple approach to perform ECG signal classificat
 graph properties obtained from visibility graphs corresponding to the signals. 
 The classification is done using Logistic Regression which resulted with a promising overall accuracy of 96.9%.
 
-*The reader is referred to [full paper](Classification_of_Time_Series_ECG_using_Visibility_Graphs.pdf)
+*The reader is referred to this [link](Classification_of_Time_Series_ECG_using_Visibility_Graphs.pdf) for the complete paper.*
